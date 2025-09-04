@@ -30,6 +30,7 @@
       "not dead",
       "not op_mini all"
     ],
+    "homepage": "https://maksimkhandeshyn.github.io/react-1/",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
