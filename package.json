@@ -1,6 +1,7 @@
 {
   "name": "react-1",
   "version": "0.1.0",
+  "homepage": "maksimkhandeshyn.github.io/react-1/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
@@ -24,6 +25,10 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimKhandeshyn/react-1.git"
   },
   "browserslist": {
     "production": [
