@@ -11,7 +11,7 @@ function App() {
     url: "https://www.google.com/",
   };
   const a = 110;
-  const b = 69;
+  const b = 100;
   const result = a + b;
   return (
     <div className="App">
